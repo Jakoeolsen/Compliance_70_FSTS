@@ -1,1 +1,2 @@
-use this data here: https://energinet-my.sharepoint.com/:f:/g/personal/jaeol_energinet_dk/IgDbIhelIYJtSq2v7gYoDtG6AWreaxnFX0ojShoaY_JByog?e=apegnf
+download and put the files in this folder:
+Use this link: use this data here: https://energinet-my.sharepoint.com/:f:/g/personal/jaeol_energinet_dk/IgDbIhelIYJtSq2v7gYoDtG6AWreaxnFX0ojShoaY_JByog?e=apegnf
